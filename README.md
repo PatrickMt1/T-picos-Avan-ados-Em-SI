@@ -58,4 +58,4 @@ python main.py
 - `Nt`: Número de iterações da simulação.
 - `N`: Número de partículas.
 
-Projeto criado na materia de Tópicos Avançados de Sistemas da informação.
+Projeto criado em Python na materia de Tópicos Avançados de Sistemas da informação.
